@@ -6,7 +6,7 @@
 body {
   margin: 0;
   background-color: #000000;
-  background-image: url("src/assets/black_background.jpg");
+  background-image: url("./assets/black_background.jpg");
   background-size: cover;
   font-family: Arial, sans-serif;
   line-height: 1.6;
