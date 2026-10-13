@@ -1,0 +1,46 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #000000;
+  background-image: url("src/assets/black_background.jpg");
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 60px 24px;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #eeeeee;
+}
+
+section {
+  margin-top: 60px;
+  color: #eeeeee;
+}
+
+nav {
+  display: flex;
+  gap: 24px;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+nav a {
+  color: #eeeeee;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
